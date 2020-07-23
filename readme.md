@@ -105,7 +105,7 @@ The ELK playbook implements the following tasks:
 The following screenshot displays the result of running docker ps after successfully configuring the ELK instance.
 
 
-![Image](https://www.dropbox.com/s/s5kux32tjntbka1/rJHPJ-Igv_H1JWVQLgD.jpeg?dl=1)
+![Image](/images/Elk%20docker%20screenshot.JPG)
 
 Target Machines and Beats:
 
