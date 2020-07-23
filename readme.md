@@ -38,7 +38,7 @@ The ELK Stack is comprised of **E**lasticSearch, **L**ogStash, and **K**ibana. E
 Topology:
 The files in this repository were used to configure the network depicted below.
 
-![Image](https://www.dropbox.com/s/4mgik150m1x6k69/rJHPJ-Igv_ByEJy7Iew.jpeg?dl=1)
+![Image](/images/Topology.JPG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YML files may be used to install only certain pieces of it, such as Filebeat.
 
